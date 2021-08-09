@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+<a href="https://stackoverflow.com/users/10669393/prahack"><img src="https://stackoverflow.com/users/flair/10669393.png" width="208" height="58" alt="profile for prahack at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for prahack at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prahack&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prahack)
 
