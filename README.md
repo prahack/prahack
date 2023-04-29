@@ -30,4 +30,4 @@
 
 
 # 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=prahack_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=prahack_)](https://twitter.com/prahack_)
