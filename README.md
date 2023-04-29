@@ -25,9 +25,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prahack&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prahack&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=prahack&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 
-# 🐦 Latest Tweet
+# 📝 Latest Blog Articles on Medium:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@prabhanu/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@prabhanu/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@prabhanu/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@prabhanu/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@prabhanu/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@prabhanu/2" alt="Recent Article 2"></a>
+
+
+# 🐦 Latest Tweet:
+
 [![](https://gtce.itsvg.in/api?username=prahack_)](https://twitter.com/prahack_)
